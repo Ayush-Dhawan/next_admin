@@ -7,6 +7,6 @@ const Footer = () => {
       <div className={styles.text}>© All rights reserved.</div>
     </div>
   );
-};
+}; 
 
 export default Footer;
